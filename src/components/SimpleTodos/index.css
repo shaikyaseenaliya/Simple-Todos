@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.simple-todo-app-container {
+  background-color: #ffc2a0;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.simple-todo-container {
+  background-color: #fff;
+  margin-top: 50px;
+  height: 90vh;
+  width: 60vw;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.simple-todo-heading {
+  color: #ff8542;
+  font-size: 56px;
+  font-weight: 600;
+  font-family: 'Roboto';
+}
+.todo-list {
+  padding-left: 0%;
+}
